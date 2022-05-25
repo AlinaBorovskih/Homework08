@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Алина Обучение\\Семинары\\3. знакомство с языками програмирования\\урок 8\\Homework08\\Tasks\\Task054\\Task054.csproj": {}
+  },
+  "projects": {
+    "D:\\Алина Обучение\\Семинары\\3. знакомство с языками програмирования\\урок 8\\Homework08\\Tasks\\Task054\\Task054.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Алина Обучение\\Семинары\\3. знакомство с языками програмирования\\урок 8\\Homework08\\Tasks\\Task054\\Task054.csproj",
+        "projectName": "Task054",
+        "projectPath": "D:\\Алина Обучение\\Семинары\\3. знакомство с языками програмирования\\урок 8\\Homework08\\Tasks\\Task054\\Task054.csproj",
+        "packagesPath": "C:\\Users\\GRINCH\\.nuget\\packages\\",
+        "outputPath": "D:\\Алина Обучение\\Семинары\\3. знакомство с языками програмирования\\урок 8\\Homework08\\Tasks\\Task054\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GRINCH\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
